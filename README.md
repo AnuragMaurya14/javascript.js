@@ -1,5 +1,5 @@
 # practice-
-For Prcatice Purpose.
+For Practice Purpose.
 <br>
 By Anurag Shantanu Maurya
 

@@ -15,3 +15,13 @@ let offer = items[i]/10;
 items[i]-=offer 
 }
 console.log("after applying 10% of offer",items)
+
+//to remove,insert new values in array
+let companies = ["Bloomerg","Microsoft","uber","Google","ibm","Netflex"]
+console.log(companies);
+companies.shift();
+console.log(companies)
+companies.splice(1,1,"ola");
+console.log(companies)
+companies.push("Amazon");
+console.log(companies)
